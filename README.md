@@ -1,1 +1,5 @@
 # Rethinking-Drug-Price-Regulation-A-Path-to-More-Accessible-Healthcare
+
+The United States relies on generic competition as its main check on prescription drug prices, yet that mechanism often fails. U.S. per capita drug spending is more than double the average of comparable wealthy nations, and the gap is driven by higher prices rather than greater use. Although generics account for 90% of U.S. prescriptions, the remaining brand-name drugs absorb roughly 80% of drug spending, and hundreds of off-patent drugs still face no generic competitor. This paper argues that the United States should reduce FDA regulatory barriers to encourage generic market entry while expanding Medicare drug price negotiation to off-patent drugs that lack generic competition. It also examines the limitations of these reforms, including potential effects on pharmaceutical innovation and the risk that lower prices delay generic entry.
+
+Keywords: drug pricing, generic competition, Medicare negotiation, FDA regulation, health- care access
